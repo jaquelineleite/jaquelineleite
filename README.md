@@ -1,105 +1,153 @@
-# 👋 Olá! Eu sou Jaqueline de Andrade
+# Jaqueline de Andrade
 
-### QA Engineer | Quality Engineering | Test Automation
+## QA Engineer | Quality Engineering | Test Automation
 
-Profissional de Quality Assurance com mais de **6 anos de experiência** em qualidade de software, testes funcionais, automação Web, APIs e Mobile.
+Profissional de Quality Assurance com mais de 6 anos de experiência em qualidade de software, testes funcionais e automação de testes Web, API e Mobile.
 
-Experiência em projetos dos setores **financeiro, meios de pagamento, seguros, telecomunicações, varejo e governo**, atuando na validação de regras de negócio, prevenção de defeitos e melhoria contínua da qualidade.
+Experiência em projetos dos setores financeiro, meios de pagamento, seguros, telecomunicações, varejo e governo.
 
-Meu trabalho combina análise de riscos, estratégias de testes e automação para apoiar entregas confiáveis.
+Atuação em estratégias de testes baseadas em riscos, validação de regras de negócio, automação, investigação de falhas e integração contínua.
+
+Meu objetivo é contribuir para a entrega de software confiável, combinando conhecimento técnico, análise crítica e compreensão dos impactos para o negócio.
 
 ---
 
-## 🎯 Quality Engineering
+## Competências em Quality Engineering
 
 - Planejamento e execução de testes funcionais, exploratórios e de regressão.
+- Estratégias de testes baseadas em riscos e impacto para o negócio.
 - Automação de testes Web, APIs REST e Mobile.
 - Validação de contratos de APIs e regras de negócio.
-- Estratégias de testes baseadas em riscos e impacto.
+- Testes positivos, negativos, de integração e de regressão.
 - BDD com Cucumber e Gherkin.
-- Integração de testes em pipelines CI/CD.
+- Integração de testes automatizados em pipelines CI/CD.
 - Investigação de falhas, análise de logs e evidências.
 - Testes de performance e validação de dados.
-- Análise de resultados e critérios de qualidade para releases.
+- Análise de defeitos, severidade, prioridade e critérios de qualidade para releases.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e Ferramentas
 
 | Categoria | Tecnologias |
 |---|---|
 | Automação Web | Playwright, Cypress, Selenium |
 | Automação de APIs | Karate, Rest Assured, Postman, Robot Framework |
-| Mobile | Appium, WebdriverIO |
+| Automação Mobile | Appium, WebdriverIO |
 | Linguagens | Java, JavaScript, TypeScript, Python |
 | BDD | Cucumber, Gherkin |
 | Performance | JMeter, k6 |
 | CI/CD | Jenkins, GitHub Actions, GitLab CI, Azure DevOps |
-| Banco de dados | PostgreSQL, SQL |
+| Banco de Dados | PostgreSQL, SQL |
 | Observabilidade | Grafana, Dynatrace, Kibana |
-| Segurança e qualidade | Snyk, SonarQube |
-| Gestão de testes | Jira, Xray, ALM Octane, HP ALM |
+| Segurança e Qualidade | Snyk, SonarQube |
+| Gestão de Testes | Jira, Xray, ALM Octane, HP ALM |
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em Destaque
 
-### 🔌 Karate API Quality Engineering
-Framework de testes automatizados de APIs utilizando Java, Karate, Docker e k6.
+### Karate API Quality Engineering
 
-**Foco:** testes funcionais, contratos, cenários negativos, integração entre microsserviços e validações de performance.
+Framework de automação de testes de APIs utilizando Java, Karate, Docker e k6.
 
-[Ver projeto](https://github.com/jaquelineleite/karate-api-quality-engineering)
+**Principais abordagens:**
+- Testes funcionais e de integração.
+- Validação de contratos de APIs.
+- Cenários positivos e negativos.
+- Testes orientados a dados.
+- Integração entre microsserviços.
+- Testes de performance.
+- Integração com GitHub Actions.
 
-### 🏦 Investment Quality Engineering
+[Ver repositório](https://github.com/jaquelineleite/karate-api-quality-engineering)
+
+### Investment Quality Engineering
+
 Projeto de Quality Engineering aplicado a fluxos financeiros e de investimentos.
 
-**Foco:** automação Web e API, integração, validação de dados e estratégias de testes.
+**Principais abordagens:**
+- Automação Web com Selenium e Java.
+- Testes de APIs com Rest Assured.
+- Validação de regras de negócio.
+- Integração com PostgreSQL e RabbitMQ.
+- Estratégias de testes funcionais e de integração.
+- Execução automatizada em CI/CD.
 
-[Ver projeto](https://github.com/jaquelineleite/investment-quality-engineering)
+[Ver repositório](https://github.com/jaquelineleite/investment-quality-engineering)
 
-### 🎭 Playwright API Automation
-Automação de testes utilizando Playwright e TypeScript.
+### Playwright API Automation
 
-**Foco:** validação de APIs REST, cenários positivos e negativos e integração contínua.
+Framework de automação utilizando Playwright e TypeScript.
 
-[Ver projeto](https://github.com/jaquelineleite/qa-api-automation-playwright)
+**Principais abordagens:**
+- Testes de APIs REST.
+- Validação de contratos e respostas.
+- Cenários positivos e negativos.
+- Testes de autenticação e autorização.
+- Organização e reutilização de testes.
+- Integração contínua.
 
-### 🥒 Cypress + Cucumber
-Framework de automação utilizando Cypress, JavaScript e Cucumber.
+[Ver repositório](https://github.com/jaquelineleite/qa-api-automation-playwright)
 
-**Foco:** BDD, Gherkin, testes funcionais e organização de cenários automatizados.
+### Cypress + Cucumber
 
-[Ver projeto](https://github.com/jaquelineleite/qa-cypress-cucumber)
+Framework de automação de testes utilizando Cypress, JavaScript e Cucumber.
 
-### ☕ Selenium Java Automation
-Automação Web utilizando Selenium e Java.
+**Principais abordagens:**
+- Automação de testes Web.
+- BDD com Gherkin.
+- Validação de fluxos funcionais.
+- Cenários positivos e negativos.
+- Organização de testes por funcionalidades.
+- Integração com pipelines CI/CD.
 
-**Foco:** smoke tests, regressão, validação de fluxos e execução automatizada.
+[Ver repositório](https://github.com/jaquelineleite/qa-cypress-cucumber)
 
-[Ver projeto](https://github.com/jaquelineleite/qa-automation-selenium-java-saucedemo)
+### Selenium Java Automation
 
-### 📊 Data Quality & ETL Engineering
+Projeto de automação Web utilizando Selenium WebDriver e Java.
+
+**Principais abordagens:**
+- Testes funcionais automatizados.
+- Smoke tests e regressão.
+- Validação de fluxos de navegação.
+- Organização e manutenção de testes.
+- Execução em diferentes navegadores.
+- Integração contínua.
+
+[Ver repositório](https://github.com/jaquelineleite/qa-automation-selenium-java-saucedemo)
+
+### Data Quality & ETL Engineering
+
 Projeto de validação de qualidade de dados utilizando Python.
 
-**Foco:** testes de pipelines de dados, regras de qualidade, validações e integração contínua.
+**Principais abordagens:**
+- Testes de qualidade de dados.
+- Validação de pipelines ETL.
+- Verificação de integridade e consistência.
+- Validação de regras de transformação.
+- Estratégias de Quality Gate.
+- Integração contínua.
 
-[Ver projeto](https://github.com/jaquelineleite/qa-data-quality-etl-engineering)
+[Ver repositório](https://github.com/jaquelineleite/qa-data-quality-etl-engineering)
 
 ---
 
-## 💡 Minha visão sobre qualidade
+## Minha Visão sobre Qualidade
 
-Acredito que qualidade de software vai além de encontrar defeitos ou aumentar a quantidade de testes automatizados.
+Qualidade de software vai além da identificação de defeitos ou da quantidade de testes automatizados.
 
 Uma estratégia eficiente considera riscos, impacto para o negócio, confiabilidade das validações e feedback contínuo durante o desenvolvimento.
+
+A automação deve contribuir para a redução de riscos, a prevenção de falhas e a confiança nas entregas.
 
 **Automatizar é importante. Saber o que testar, por que testar e quando bloquear uma entrega é essencial.**
 
 ---
 
-## 🔗 Conecte-se comigo
+## Contato
 
-💼 [LinkedIn](https://www.linkedin.com/in/jaqueline-c0nnecta/)
+**LinkedIn:** https://www.linkedin.com/in/jaqueline-c0nnecta/
 
-💻 [GitLab](https://gitlab.com/jaquelinefdeandrade)
+**GitLab:** https://gitlab.com/jaquelinefdeandrade
